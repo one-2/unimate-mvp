@@ -2,6 +2,8 @@
 
 UniMate was a real-world MVP built by a second-year computer science student at UNSW. It aggregated and processed event data from student groups across the internet, using distributed proxies for scraping and GPT-based classification for semantic enrichment. The system ran live for over 1,500 users and was designed to validate product-market fit with minimal engineering overhead.
 
+🧊 This repo represents a cleaned and frozen version of the final push of the UniMate MVP. It is not under active development.
+
 📝 [Read the retrospective](https://stelliott.online/2025/03/31/unimate-retrospective-of-a-first-time-engineering-founder/) for the full breakdown of the design process, tradeoffs, and lessons learned.
 
 ---
